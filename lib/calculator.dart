@@ -42,7 +42,7 @@ class _CalculatorState extends State<Calculator> {
 		double displayHeight = screen.height - (buttonSize * 5) - (buttonSize);
 	
 		return Scaffold(
-			backgroundColor: Colors.black,
+			backgroundColor: Colors.white,
 			body: Column(
 				
 				mainAxisAlignment: MainAxisAlignment.center,
